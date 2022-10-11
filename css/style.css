@@ -1,0 +1,66 @@
+body{
+
+}
+
+span h1 {
+  /* display: inline;  */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue; 
+  background-color: yellow; 
+  float: right;
+  
+}
+
+
+nav {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue; 
+  background-color: yellow; 
+
+}
+
+.hero {
+  /* background-color: pink; */
+  background-image: url("https://thumbs.dreamstime.com/z/marble-background-marble-texture-green-marble-pattern-marble-wallpaper-green-abstract-background-marble-background-marble-texture-115718831.jpg");
+  border: 3px blue solid;
+}
+
+/* navigation */
+
+  .content {
+      border: 3px red solid;
+  }
+
+
+
+    .skills_left{
+      /* float this section to left */
+      /* add some margin */
+      /* add padding */
+      /* add font style */
+      /* add background color */
+      
+    }
+    .skills_right{
+
+    }
+
+    .program_tool{
+
+    }
+
+    .rainbow_project{
+
+    }
+
+    .village_project{
+
+    }
+
+
+     
